@@ -17,7 +17,7 @@ dan membuat array dengan variabel tersebut (sisa code seperti for Liat di youtub
 ![image](https://github.com/user-attachments/assets/f101d7dd-ce3f-48dd-b559-c5edb194ea18)
 
 
-setelah membuat function nya saya memanggilakn code tersebut menggunakan else if
+setelah membuat function nya saya mengelurkan code functionnya tersebut menggunakan else if
 
 
 
