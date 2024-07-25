@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/c666aed8-6413-4955-b0bc-a9f03579d875)
 
 seperti yg ada digambar diatas saya membuat function nya terlebih dahulu dengan 1 variabel yaitu jumlah kucing
-dan membuat array dengan variabel tersebut (sisa code seperti for Liat di youtube jika tidak paham)
+dan membuat array dengan variabel tersebut *sisa code seperti for Liat di youtube jika tidak paham*
 
 
 
