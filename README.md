@@ -19,6 +19,12 @@ dan membuat array dengan variabel tersebut (sisa code seperti for Liat di youtub
 
 setelah membuat function nya saya mengelurkan code functionnya tersebut menggunakan else if
 
+![image](https://github.com/user-attachments/assets/70923492-8835-4e90-846f-8c82689539d0)
+
+
+dan beginilah hasilnya
+
+
 
 
 
